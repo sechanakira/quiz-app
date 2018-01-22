@@ -1,4 +1,4 @@
-package za.co.shingirai.quizzapp.persistence.model;
+package za.co.shingirai.quizapp.persistence.model;
 
 import lombok.Data;
 

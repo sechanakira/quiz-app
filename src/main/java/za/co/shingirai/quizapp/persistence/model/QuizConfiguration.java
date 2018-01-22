@@ -1,4 +1,4 @@
-package za.co.shingirai.quizzapp.persistence.model;
+package za.co.shingirai.quizapp.persistence.model;
 
 import lombok.Data;
 
@@ -8,10 +8,10 @@ import javax.persistence.Table;
 
 @Data
 @Entity
-@Table(name = "quizz_config")
+@Table(name = "quiz_config")
 public class QuizConfiguration extends BaseEntity {
 
-    @Column(name = "quizz_id")
+    @Column(name = "quiz_id")
     private Long quizzId;
     @Column(name = "randomize")
     private boolean randomize;
