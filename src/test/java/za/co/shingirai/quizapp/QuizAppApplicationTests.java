@@ -1,4 +1,4 @@
-package za.co.shingirai.quizzapp;
+package za.co.shingirai.quizapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
